@@ -1,0 +1,199 @@
+AR
+X'D62E'
+“Activate Resource” on page 128
+No
+AFO
+X'D602'
+“Apply Finishing Operations” on page 156
+No
+BP
+X'D6AF'
+“Begin Page” on page 158
+Yes
+DF
+X'D64F'
+“Deactivate Font” on page 159
+Yes
+DUA
+X'D6CE'
+“Define User Area” on page 164
+No
+END
+X'D65D'
+“End” on page 166
+Yes
+EP
+X'D6BF'
+“End Page” on page 167
+Yes
+ISP
+X'D67E'
+“Include Saved Page” on page 168
+No
+ICMR
+X'D66B'
+“Invoke CMR” on page 170
+No
+LCC
+X'D69F'
+“Load Copy Control” on page 172
+Yes
+LFE
+X'D63F'
+“Load Font Equivalence” on page 193
+Yes
+LPD
+X'D6CF'
+“Logical Page Descriptor” on page 202
+Yes
+LPP
+X'D66D'
+“Logical Page Position” on page 209
+Yes
+MID
+X'D601'
+“Manage IPDS Dialog” on page 216
+No
+NOP
+X'D603'
+“No Operation” on page 217
+Yes
+PFC
+X'D634'
+“Presentation Fidelity Control” on page 218
+No
+RPO
+X'D67B'
+“Rasterize Presentation Object” on page 220
+No
+STM
+X'D6E4'
+“Sense Type and Model” on page 231
+Yes
+SHS
+X'D697'
+“Set Home State” on page 256
+Yes
+SPE
+X'D608'
+“Set Presentation Environment” on page 257
+No
+XOA
+X'D633'
+“Execute Order Anystate” on page 259
+no
+XOH
+X'D68F'
+“Execute Order Home State” on page 299
+no
+ACK
+X'D6FF'
+“Acknowledge Reply” on page 118
+yes
+LE
+X'D61D'
+“Load Equivalence” on page  120
+Yes
+WT
+X'D62D'
+“Write Text” on page 429
+Yes
+LCP
+X'D61B'
+“Load Code Page” on page 591
+LF3
+LCPC
+X'D61A'
+“Load Code Page Control” on page 594
+LF3
+LF
+X'D62F'
+“Load Font” on page 599
+LF1 LF3
+LFCSC
+X'D619'
+“Load Font Character Set Control” on page 609
+LF3
+LFC
+X'D61F'
+“Load Font Control” on page 613
+LF1
+LFI
+X'D60F'
+“Load Font Index” on page 626
+LF1
+X'D61E'
+“Load Symbol Set” on page 639
+LL2
+BPS
+X'D65F'
+“Begin Page Segment” on page 570
+Yes
+DPS
+X'D66F'
+“Deactivate Page Segment” on page 571
+Yes
+IPS
+X'D67F'
+“Include Page Segment” on page 572
+Yes
+BO
+X'D6DF'
+“Begin Overlay” on page 561
+Yes
+DO
+X'D6EF'
+“Deactivate Overlay” on page 563
+Yes
+IO
+X'D67D'
+“Include Overlay” on page 565
+Yes
+WIC2
+X'D63E'
+“Write Image Control 2” on page 450
+Yes
+WI2
+X'D64E'
+“Write Image 2” on page 469
+Yes
+WGC
+X'D684'
+“Write Graphics Control” on page 480
+Yes
+WG
+X'D685'
+“Write Graphics” on page 500
+Yes
+WBCC
+X'D680'
+“Write Bar Code Control” on page 508
+Yes
+WBC
+X'D681'
+“Write Bar Code” on page 520
+Yes
+DORE
+X'D66C'
+“Data Object Resource Equivalence” on page 524
+No
+DDOFC
+X'D65B'
+“Deactivate Data-Object-Font Component” on page 527
+No
+DDOR
+X'D65C'
+“Deactivate Data Object Resource” on page 528
+No
+IDO
+X'D67C'
+“Include Data Object” on page 529
+No
+WOCC
+X'D63C'
+“Write Object Container Control” on page 540
+Yes
+WOC
+X'D64C'
+“Write Object Container” on page 558
+Yes

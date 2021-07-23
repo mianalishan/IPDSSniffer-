@@ -1,0 +1,19 @@
+﻿  LeftView.cpp
+e:\evento\winstyle\winstyle\command_extractor.h(232): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\command_extractor.h(245): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\command_extractor.h(250): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\leftview.cpp(51): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\leftview.cpp(87): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\leftview.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  winstyleDoc.cpp
+e:\evento\winstyle\winstyle\command_extractor.h(232): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\command_extractor.h(245): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\command_extractor.h(250): warning C4018: '<': signed/unsigned mismatch
+e:\evento\winstyle\winstyle\reading_pcap_file.h(200): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ChildFrm.cpp
+  winstyle.vcxproj -> E:\Evento\winstyle\Debug\winstyle.exe
+  winstyle.vcxproj -> E:\Evento\winstyle\Debug\winstyle.pdb (Partial PDB)
